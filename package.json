@@ -1,0 +1,24 @@
+{
+  "name": "A_Z_Exp_Nodejs",
+  "version": "1.0.0",
+  "description": "A Tutorial for express nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Express"
+  ],
+  "author": "Shijo Shaji",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
